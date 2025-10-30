@@ -18,7 +18,7 @@ python.exe -m pip install --upgrade pip
 ```
 #### 5-install requirements.txt
 ```
-pip install -r Backend/requirements.txt
+pip install -r requirements.txt
 ```
 #### 6-deactivating vevn
 ```
